@@ -1,0 +1,29 @@
+_repo: Hunting-Indians-in-a-Taxi-Cab_65423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanborn, Kate
+    alias: Sanborn, Katherine Abbott
+    birthdate: 1839
+    deathdate: 1917
+    gutenberg_agent_id: '4181'
+    url: http://www.gutenberg.org/2009/agents/4181
+    wikipedia: https://en.wikipedia.org/wiki/Kate_Sanborn
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65423'
+  lccn: '11031990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Statues'
+- !lcsh 'Cigar-store Indians -- Pictorial works'
+- !lcc 'NK'
+- GITenberg
+title: Hunting Indians in a Taxi-Cab
+url: http://www.gutenberg.org/ebooks/65423
